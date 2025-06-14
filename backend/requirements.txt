@@ -1,0 +1,12 @@
+langchain
+openai
+python-dotenv
+langgraph
+tiktoken
+langchain-openai
+flask
+flask-cors
+whisper
+fastapi
+uvicorn
+python-multipart
