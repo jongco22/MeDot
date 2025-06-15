@@ -66,8 +66,10 @@ npm install
 npm run dev
 ```
 `http://localhost:5173`에서 UI 실행
+
 ### frontend 화면
 <img width="1280" alt="Image" src="https://github.com/user-attachments/assets/29cc2f85-1ace-4fce-8a24-fd7ed3709452" />
+
 #### api키는 .env파일에 작성
 OPENAI_API_KEY="YOUR-API-KEY"
 
